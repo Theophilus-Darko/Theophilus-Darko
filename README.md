@@ -9,7 +9,7 @@ I am a dedicated and detail-oriented Data Analyst with extensive experience in l
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [darkotheo382@gmail.com](mailto:darkotheo382@gmail.com)
 * 🧠  I'm learning The Basics of Python
-* 🤝  I'm open to collaborating on building strong databases as a junior analyst with an experience to help me get hands on experience.
+* 🤝  I'm open to collaborating on building strong databases as a junior analyst with an experience team to help me get hands on experience.
 
 ### Skills
 
